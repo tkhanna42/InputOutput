@@ -1,5 +1,4 @@
-# RoutOUTe
-- My EngHack Hack
+# RoutOUTe - My EngHack Hack
 ====================
 Routines suck. So why not kick the OUT?
 
